@@ -33,7 +33,7 @@
     "ffi": "^2.2.0",
     "fs-extra": "^1.0.0",
     "glob": "^7.1.2",
-    "i18next": "^8.4.2",
+    "i18next": "^19.6.0",
     "i18next-sync-fs-backend": "^0.1.0",
     "pidusage": "^1.1.5"
   },
